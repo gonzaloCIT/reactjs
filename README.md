@@ -1,2 +1,3 @@
 # reactjs
-Prueba
+
+Proyecto template de nodeJS y React-JS
